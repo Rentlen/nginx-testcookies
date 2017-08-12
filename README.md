@@ -10,7 +10,7 @@ $ cd ~/
 
 $ apt-get install git -y
 
-$ git clone https://github.com/hitechlinux/nginx-testcookies.git
+$ git clone https://github.com/Rentlen/nginx-testcookies.git
 
 $ cd ~/nginx-testcookies
 
