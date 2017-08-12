@@ -1,6 +1,6 @@
 #!/bin/bash
 # Nginx 1.9.7 + 9 Modules.
-# Author RAW.
+# Author Rentlen x RAW.
 ##########################
 
 
