@@ -9,7 +9,7 @@ This is an auto compiler script for nginx 1.9.7 and some other modules.
 
    $ **`apt-get install git -y`**
 
-   $ **`git clone https://github.com/hitechlinux/nginx-testcookies.git`**
+   $ **`git clone https://github.com/Rentlen/nginx-testcookies.git`**
    
    $ **`cd ~/nginx-testcookies`**
    
@@ -39,7 +39,7 @@ U'r Done :)
 
   $ **`cd ~/`**
 
-  $ **`wget https://raw.githubusercontent.com/hitechlinux/nginx-testcookies/master/mmode.sh`**
+  $ **`wget https://raw.githubusercontent.com/Rentlen/nginx-testcookies/master/mmode.sh`**
   
   $ **`chmod +x mmode.sh`**
   
@@ -47,7 +47,7 @@ U'r Done :)
   
   $ **`cd /opt/nginx/sources/nginx-1.9.7/`**
   
-  $ **`wget https://raw.githubusercontent.com/hitechlinux/nginx-testcookies/master/build.sh`**
+  $ **`wget https://raw.githubusercontent.com/Rentlen/nginx-testcookies/master/build.sh`**
   
   $ **`sh build.sh`**
   
@@ -55,6 +55,6 @@ U'r Done :)
   
   $ **`sudo make install`**
 
-  $ **`wget https://raw.githubusercontent.com/hitechlinux/nginx-testcookies/master/fixit.sh`**
+  $ **`wget https://raw.githubusercontent.com/Rentlen/nginx-testcookies/master/fixit.sh`**
   
   $ **`sh fixit.sh`**
