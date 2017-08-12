@@ -29,7 +29,7 @@ cat <<EOF > /usr/share/nginx/html/index.html
 </style>
 </head>
 <body>
-<h1>Welcome to nginx!</h1>
+<h1>Welcome to nginx, by Rentlen</h1>
 <p>If you see this page, the nginx web server is successfully installed and
 working. Further configuration is required.</p>
 
