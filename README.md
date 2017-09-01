@@ -1,9 +1,10 @@
-# Autocompiler For Nginx And TestCookies Module.
-This is an auto compiler script for nginx 1.9.7 and some other modules. 
+# Автокомпилятор для Nginx (модуль TestCookies ).
+------------------------------------------------
+Для любителей Английского
+# This is an auto compiler script for nginx 1.9.7 and some other modules. 
+Данный скрипт тестировался на OS: Ubuntu 14.04 LTS. 
 
-**Info:** This script is tested on Ubuntu 14.04 LTS. 
-
-1. Copy Repo 
+1. Скопируйте репозиторий
   
    $ **`cd ~/`**
 
@@ -13,11 +14,11 @@ This is an auto compiler script for nginx 1.9.7 and some other modules.
    
    $ **`cd ~/nginx-testcookies`**
    
-2. Start it.
+2. Начинаем )
 
    $ **`sudo sh inginx.sh`**
    
-U'r Done :)
+***, после
 
   Modules List.
   <pre>
@@ -32,10 +33,10 @@ U'r Done :)
    9. `nginx-upload-progress-module > https://github.com/masterzen/nginx-upload-progress-module`
   </pre>
 
-  You can read their docs if you don't know how to use them.
+  Вы можете прочитать документацию к модулям, если не знаете, как их использовать
 
 
-#Manual Mode. (To Check If Is AnY Error.)
+# Ручной режим. (На случай " я сам")
 
   $ **`cd ~/`**
 
