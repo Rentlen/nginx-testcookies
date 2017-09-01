@@ -20,7 +20,6 @@
    
 ***, после
 
-  Modules List.
   <pre>
    1. `ngx_devel_kit-0.2.19         > https://github.com/ildus/nginx_redis`
    2. `set-misc-nginx-module        > https://github.com/openresty/set-misc-nginx-module`
